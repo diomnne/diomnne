@@ -25,3 +25,12 @@
   
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diomnne&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomnne&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="165"/>
+</div>
+
+
+
