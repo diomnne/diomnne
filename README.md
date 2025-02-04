@@ -24,13 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
   
 </div>
-
+<br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diomnne&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomnne&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="140"/>
-</div>
+![diomnne's Stats](https://github-readme-stats.vercel.app/api?username=diomnne&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+
+
 
 
 
