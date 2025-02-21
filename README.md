@@ -3,8 +3,8 @@
 ### About Me 🌷 :
 
 🌱 Budding Frontend Developer and UI/UX Designer  
-🦁 Computer Science Junior at <a href="https://wlcormoc.edu.ph/" target="_blank" rel="noopener noreferrer">Western Leyte College</a>  
-💭 Currently learning Web Dev, App Dev, and 3D Modeling  
+🦁 Computer Science Junior at <a href="https://wlcormoc.edu.ph/cicte/" target="_blank" rel="noopener noreferrer">Western Leyte College</a>  
+💭 Currently learning Web Dev and App Dev  
 
 ### Languages and Tools 💻 :
 
